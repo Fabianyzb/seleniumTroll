@@ -13,7 +13,7 @@ driver = webdriver.Chrome()
 driver.get("https://web.whatsapp.com/")
 wait=WebDriverWait(driver,100)
 
-target='"Estafa"'
+target='"Estafa"' #Ahora tiene que indicar el nombre del contacto!!!!
 message="hola como estas, esto es una prueba desde message"
 number_of_times=20 #No. of times to send a message
 
