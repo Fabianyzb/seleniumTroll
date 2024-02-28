@@ -21,7 +21,6 @@ Coloca el archivo chromedriver.exe en la misma carpeta que tu script main.py.
 Instala las dependencias necesarias ejecutando el siguiente comando en la terminal:
 pip install selenium
 
-
 ## Uso
 
 1. Abre el archivo main.py y configura las siguientes variables:

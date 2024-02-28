@@ -13,9 +13,9 @@ driver = webdriver.Chrome()
 driver.get("https://web.whatsapp.com/")
 wait=WebDriverWait(driver,100)
 
-target='"+91 93033 85526"'
-message="hola como estas, esto es una prueba"
-number_of_times=5 #No. of times to send a message
+target='"Estafa"'
+message="hola como estas, esto es una prueba desde message"
+number_of_times=20 #No. of times to send a message
 
 
 #Lectura de archivo txt
