@@ -1,6 +1,6 @@
 # Automatizacion de un chat en Whatsapp
 
-Herramienta que automatiza el envío de mensajes en WhatsApp utilizando Selenium. El codigo lee el archivo .txt y lo envia al numero de telefono que se especifica en el "target". 
+Herramienta que automatiza el envío de mensajes en WhatsApp utilizando Selenium. El codigo lee el archivo .txt y lo envia al nombre del CONTACTO que se especifica en el "target". Hay que anadir el numero a los contactos. 
 
 ## Tecnologías Utilizadas
 
