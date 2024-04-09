@@ -17,7 +17,7 @@ ChromeDriver: Controlador específico para Google Chrome.
 Descarga el archivo ejecutable de ChromeDriver compatible con tu versión de Google Chrome desde aquí.
 Coloca el archivo chromedriver.exe en la misma carpeta que tu script main.py.
 
-3. Dependencias:
+1. Dependencias:
 Instala las dependencias necesarias ejecutando el siguiente comando en la terminal:
 pip install selenium
 
